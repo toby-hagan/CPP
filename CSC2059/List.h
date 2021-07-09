@@ -10,7 +10,7 @@ class List
 {
 public:
 	// Project 4 (c) - three new member functions
-	void set(int p, T item); // set node p’s item to item
+	void set(int p, T item); // set node pâ€™s item to item
 	/* two more to be declared here */
 	void set_next(T item); // set pCurrentNode->item to item, move pCurrentNode to
 	 // pCurrentNode->pNextNode
